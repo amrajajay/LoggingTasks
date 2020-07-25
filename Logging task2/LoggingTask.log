@@ -1,0 +1,54 @@
+2020-07-25 11:26:36 DEBUG ContructionLoggingTask.App:23 - Material Standards 		 cost in INR/feet
+2020-07-25 11:26:36 DEBUG ContructionLoggingTask.App:24 - -----------------------------------------------
+2020-07-25 11:26:36 DEBUG ContructionLoggingTask.App:25 - 1.Normal Standard 			 1200
+2020-07-25 11:26:36 DEBUG ContructionLoggingTask.App:26 - 2.Above Standard 			 1500
+2020-07-25 11:26:36 DEBUG ContructionLoggingTask.App:27 - 3.High Standard 			 1800
+2020-07-25 11:26:36 DEBUG ContructionLoggingTask.App:28 - 4.High & Automated Standard 		 2500
+
+2020-07-25 11:26:36 DEBUG ContructionLoggingTask.App:29 - press Y if you want Fully Automated Home & press N if you dont't
+2020-07-25 11:26:40 DEBUG ContructionLoggingTask.App:69 - Enter your house Area
+2020-07-25 11:26:43 DEBUG ContructionLoggingTask.App:72 - 
+Estimated cost of your house is 3000000
+2020-07-25 11:26:50 DEBUG ContructionLoggingTask.App:23 - Material Standards 		 cost in INR/feet
+2020-07-25 11:26:50 DEBUG ContructionLoggingTask.App:24 - -----------------------------------------------
+2020-07-25 11:26:51 DEBUG ContructionLoggingTask.App:25 - 1.Normal Standard 			 1200
+2020-07-25 11:26:51 DEBUG ContructionLoggingTask.App:26 - 2.Above Standard 			 1500
+2020-07-25 11:26:51 DEBUG ContructionLoggingTask.App:27 - 3.High Standard 			 1800
+2020-07-25 11:26:51 DEBUG ContructionLoggingTask.App:28 - 4.High & Automated Standard 		 2500
+
+2020-07-25 11:26:51 DEBUG ContructionLoggingTask.App:29 - press Y if you want Fully Automated Home & press N if you dont't
+2020-07-25 11:26:53 DEBUG ContructionLoggingTask.App:38 - Enter respective number for required Standard from above mentioned options
+2020-07-25 11:27:01 DEBUG ContructionLoggingTask.App:69 - Enter your house Area
+2020-07-25 11:27:04 DEBUG ContructionLoggingTask.App:72 - 
+Estimated cost of your house is 2700000
+2020-07-25 11:41:38 DEBUG Construction_Logging_task.App:25 - Material Standards 		 cost in INR/feet
+2020-07-25 11:41:38 DEBUG Construction_Logging_task.App:26 - -----------------------------------------------
+2020-07-25 11:41:38 DEBUG Construction_Logging_task.App:27 - 1.Normal Standard 			 1200
+2020-07-25 11:41:38 DEBUG Construction_Logging_task.App:28 - 2.Above Standard 			 1500
+2020-07-25 11:41:38 DEBUG Construction_Logging_task.App:29 - 3.High Standard 			 1800
+2020-07-25 11:41:38 DEBUG Construction_Logging_task.App:30 - 4.High & Automated Standard 		 2500
+
+2020-07-25 11:41:38 DEBUG Construction_Logging_task.App:31 - press Y if you want Fully Automated Home & press N if you dont't
+2020-07-25 11:41:50 DEBUG Construction_Logging_task.App:25 - Material Standards 		 cost in INR/feet
+2020-07-25 11:41:50 DEBUG Construction_Logging_task.App:26 - -----------------------------------------------
+2020-07-25 11:41:50 DEBUG Construction_Logging_task.App:27 - 1.Normal Standard 			 1200
+2020-07-25 11:41:50 DEBUG Construction_Logging_task.App:28 - 2.Above Standard 			 1500
+2020-07-25 11:41:50 DEBUG Construction_Logging_task.App:29 - 3.High Standard 			 1800
+2020-07-25 11:41:50 DEBUG Construction_Logging_task.App:30 - 4.High & Automated Standard 		 2500
+
+2020-07-25 11:41:50 DEBUG Construction_Logging_task.App:31 - press Y if you want Fully Automated Home & press N if you dont't
+2020-07-25 11:41:55 DEBUG Construction_Logging_task.App:40 - Enter respective number for required Standard from above mentioned options
+2020-07-25 11:41:59 DEBUG Construction_Logging_task.App:71 - Enter your house Area
+2020-07-25 11:42:01 DEBUG Construction_Logging_task.App:74 - 
+Estimated cost of your house is 146400
+2020-07-25 11:42:13 DEBUG Construction_Logging_task.App:25 - Material Standards 		 cost in INR/feet
+2020-07-25 11:42:13 DEBUG Construction_Logging_task.App:26 - -----------------------------------------------
+2020-07-25 11:42:13 DEBUG Construction_Logging_task.App:27 - 1.Normal Standard 			 1200
+2020-07-25 11:42:13 DEBUG Construction_Logging_task.App:28 - 2.Above Standard 			 1500
+2020-07-25 11:42:13 DEBUG Construction_Logging_task.App:29 - 3.High Standard 			 1800
+2020-07-25 11:42:13 DEBUG Construction_Logging_task.App:30 - 4.High & Automated Standard 		 2500
+
+2020-07-25 11:42:13 DEBUG Construction_Logging_task.App:31 - press Y if you want Fully Automated Home & press N if you dont't
+2020-07-25 11:42:15 DEBUG Construction_Logging_task.App:71 - Enter your house Area
+2020-07-25 11:42:18 DEBUG Construction_Logging_task.App:74 - 
+Estimated cost of your house is 3050000
